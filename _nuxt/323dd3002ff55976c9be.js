@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[49],{791:function(t,o,i){"use strict";i.r(o);o.default={head:function(){return{title:this.$t("routes.about.title")}},data:function(){return this.$store.commit("SET_CURRENT_LOCATION","about"),this.$store.commit("RESTORE_HERO"),{i18nPrefix:"routes.about."}}}}}]);
